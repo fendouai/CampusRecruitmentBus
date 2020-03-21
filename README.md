@@ -7,9 +7,9 @@
 
 01 阿里巴巴
 
-内推详情：https://mp.weixin.qq.com/s/MjrEd5jVyO_ydt6Y2fhU0g（校招）
+内推详情：https://mp.weixin.qq.com/s/MjrEd5jVyO_ydt6Y2fhU0g （校招）
 
-https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ（社招）
+https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 阿里内推】阿里云-计算平台事业部招聘 ，更有非技术岗位哦！（阿里云部门直推）
 
@@ -23,9 +23,9 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ（社招）
 
 02 腾讯
 
-内推详情：https://mp.weixin.qq.com/s/YHQ56IrvrgKSZNWAAiCieg（所有岗位）；
+内推详情：https://mp.weixin.qq.com/s/YHQ56IrvrgKSZNWAAiCieg （所有岗位）；
 
-推荐PCG事业群内推，Offer数量更多：https://mp.weixin.qq.com/s/jEaePJBz-2QceztxHVHIHA（适用于21届暑期实习和日常实习生）
+推荐PCG事业群内推，Offer数量更多：https://mp.weixin.qq.com/s/jEaePJBz-2QceztxHVHIHA （适用于21届暑期实习和日常实习生）
 
 内推岗位：技术类、产品类、设计类、市场类、职能类5大类别20多个方向
 
@@ -141,7 +141,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ（社招）
 
 12 网易
 
-内推详情：https://mp.weixin.qq.com/s/pSMcWCuyUW9v2nYbXZflFg（雷火、互娱、互联网部门）；https://mp.weixin.qq.com/s/bhwRDMO4gg3TSfnEEffePw（网易雷火）
+内推详情：https://mp.weixin.qq.com/s/pSMcWCuyUW9v2nYbXZflFg （雷火、互娱、互联网部门）；https://mp.weixin.qq.com/s/bhwRDMO4gg3TSfnEEffePw （网易雷火）
 
 内推岗位：游戏策划类 平台策划类 技术类 运营类 美术类 音视频类 用户体验类 营销策略类 测试类 项目管理类 智能管理类等
 
