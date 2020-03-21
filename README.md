@@ -1,17 +1,16 @@
 # CampusRecruitmentBus
-欢迎关注微信公众号：校招巴士
 
-【校招巴士导读】对于这届大学毕业生来说，今年的求职环境实在有些特殊，求职季遇上疫情期让很多线下宣讲招聘无法正常进行，高校毕业生春招受到很多影响。我们汇集了腾讯、阿里、百度、字节、华为等20+企业最新春招动态和内推方式，针对20届春招补招、21届春招实习以及少部分社招一起向百万大学毕业生发出邀请！希望帮更多的童鞋早日拿到理想的Offer！
-
+对于这届大学毕业生来说，今年的求职环境实在有些特殊，求职季遇上疫情期让很多线下宣讲招聘无法正常进行，高校毕业生春招受到很多影响。我们汇集了腾讯、阿里、百度、字节、华为等20+企业最新春招动态和内推方式，针对20届春招补招、21届春招实习以及少部分社招一起向百万大学毕业生发出邀请！希望帮更多的童鞋早日拿到理想的Offer！
 
 
-01 阿里巴巴
+
+【01】 阿里巴巴
 
 内推详情：https://mp.weixin.qq.com/s/MjrEd5jVyO_ydt6Y2fhU0g （校招）
 
 https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
-阿里内推】阿里云-计算平台事业部招聘 ，更有非技术岗位哦！（阿里云部门直推）
+https://mp.weixin.qq.com/s/O-rWsuVTA1US3CuwyEX3nA （阿里云部门直推）
 
 内推岗位：研发工程师Java、研发工程师C/C++、前端开发工程师、客户端开发工程师、数据研发工程师、安全工程师等
 
@@ -21,7 +20,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-02 腾讯
+【02】 腾讯
 
 内推详情：https://mp.weixin.qq.com/s/YHQ56IrvrgKSZNWAAiCieg （所有岗位）；
 
@@ -33,7 +32,8 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 内推对象：2020届应届毕业生、2021届实习生以及日常实习生
 
-03 百度
+
+【03】 百度
 
 内推详情：https://mp.weixin.qq.com/s/Pe3EOaEbeqjlwKoJ5wY7OQ
 
@@ -43,7 +43,8 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 内推对象：2021届应届毕业生（毕业时间：2020.9~2021.8）
 
-04 华为
+
+【04】 华为
 
 内推详情：https://mp.weixin.qq.com/s/h5kPFts1bAonviExBaZi_w
 
@@ -55,7 +56,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-05 字节跳动
+【05】 字节跳动
 
 内推详情：https://mp.weixin.qq.com/s/wHh6YiKaprrdsyUoreoh3Q
 
@@ -67,7 +68,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-06 京东
+【06】 京东
 
 内推详情：https://mp.weixin.qq.com/s/df3grM45c9Ul1EYW8beYSg
 
@@ -79,7 +80,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-07 OPPO
+【07】 OPPO
 
 内推详情：https://mp.weixin.qq.com/s/u46CiL_9Kp41Ug3fkts6ZQ
 
@@ -91,7 +92,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-08 VIVO
+【08】 VIVO
 
 内推详情：https://mp.weixin.qq.com/s/Lxp5GYLucuyoXidPXbYa1g
 
@@ -103,7 +104,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-09 美团
+【09】 美团
 
 内推详情：https://mp.weixin.qq.com/s/VKh5wGjdN9-JdKvwLwpZwA
 
@@ -115,7 +116,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-10 科大讯飞
+【10】 科大讯飞
 
 内推详情：https://mp.weixin.qq.com/s/suJJrvTA-qY_aMzX6GI7xw
 
@@ -127,7 +128,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-11 小米
+【11】 小米
 
 内推详情：https://mp.weixin.qq.com/s/3u8XxprF-UjcpfGyxxA0wA
 
@@ -138,10 +139,10 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 内推对象：2020届应届毕业生、2021届实习生
 
 
+【12】 网易
 
-12 网易
-
-内推详情：https://mp.weixin.qq.com/s/pSMcWCuyUW9v2nYbXZflFg （雷火、互娱、互联网部门）；https://mp.weixin.qq.com/s/bhwRDMO4gg3TSfnEEffePw （网易雷火）
+内推详情：https://mp.weixin.qq.com/s/pSMcWCuyUW9v2nYbXZflFg （雷火、互娱、互联网部门）；
+https://mp.weixin.qq.com/s/bhwRDMO4gg3TSfnEEffePw （网易雷火）
 
 内推岗位：游戏策划类 平台策划类 技术类 运营类 美术类 音视频类 用户体验类 营销策略类 测试类 项目管理类 智能管理类等
 
@@ -151,7 +152,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-13 平安科技
+【13】 平安科技
 
 内推详情：https://mp.weixin.qq.com/s/DbAa3ZU4oScPViFJgXImuQ
 
@@ -163,7 +164,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-14 海康威视
+【14】 海康威视
 
 内推详情：https://mp.weixin.qq.com/s/NYK7v44S2HlP8gEkk3-jQg
 
@@ -175,7 +176,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-15 快手
+【15】 快手
 
 内推详情：https://mp.weixin.qq.com/s/07xsGPflDs27BBVJcE9nIA
 
@@ -187,7 +188,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-16 多益网络
+【16】多益网络
 
 内推详情：https://mp.weixin.qq.com/s/LjzVWzbWZ1xfUB8aUDt73w
 
@@ -199,7 +200,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-17 360
+【17】 360
 
 内推详情：https://mp.weixin.qq.com/s/yyo-wtyXEYY6pmCwHqGH7A
 
@@ -211,7 +212,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-18 百词斩
+【18】 百词斩
 
 内推详情：https://mp.weixin.qq.com/s/p3L8pfH6YHFobgQ4XY4-0Q
 
@@ -223,7 +224,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-19跟谁学
+【19】 跟谁学
 
 内推详情：https://mp.weixin.qq.com/s/QzZ28LdgZv4LJC3MNS6IoQ
 
@@ -235,7 +236,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-20 虎牙
+【20】 虎牙
 
 内推详情：https://mp.weixin.qq.com/s/sJ22gGk9h00D2yLnoKcbmQ
 
@@ -247,7 +248,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-21 深信服
+【21】 深信服
 
 内推详情：【深信服内推】20届春招、21届实习
 
@@ -259,7 +260,7 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 
 
-22 顺丰科技
+【22】 顺丰科技
 
 内推详情：【顺丰内推】2020届春季招聘正式启动
 
