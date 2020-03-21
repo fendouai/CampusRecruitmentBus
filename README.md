@@ -250,7 +250,7 @@ https://mp.weixin.qq.com/s/bhwRDMO4gg3TSfnEEffePw （网易雷火）
 
 【21】 深信服
 
-内推详情：【深信服内推】20届春招、21届实习
+内推详情：https://mp.weixin.qq.com/s/66ZeJSI0XPULEa7-icUrIw
 
 内推岗位：研发类、市场类、安服类、技服类等
 
@@ -262,7 +262,7 @@ https://mp.weixin.qq.com/s/bhwRDMO4gg3TSfnEEffePw （网易雷火）
 
 【22】 顺丰科技
 
-内推详情：【顺丰内推】2020届春季招聘正式启动
+内推详情：https://mp.weixin.qq.com/s/DYAR9U9JnpeVqn0XCj7UMQ
 
 内推岗位：研发类、职能类、管理类、航空类等
 
