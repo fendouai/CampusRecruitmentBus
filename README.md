@@ -273,4 +273,6 @@ https://mp.weixin.qq.com/s/gKvuM31Qq4C3JJewAkrgHQ （社招）
 
 最后，也欢迎大家关注我们的公众号：校招巴士。
 
+![http://pytorchchina.com/wp-content/uploads/2020/03/WechatIMG39-300x300.jpeg](http://pytorchchina.com/wp-content/uploads/2020/03/WechatIMG39-300x300.jpeg)
+
 获取更多的内推资源和面经笔经干货！
